@@ -1,0 +1,6 @@
+1 w2 Warszawa-Katowice 24.01.2023 10:16 200 34zl
+2 We100 Katowice-Lublin 24.02.2023 15:56 100 12zl
+4 w4 rr 12.11.2023 20:14 100 20zl
+5 as ra 19.12.2022 20:15 40 10zl
+6 A-100 Warszawa-Plock 23.11.2023 14.15 200 13zl
+7 aer1 Berlin-Szczecin 24.10.2023 10:12 250 40euro
